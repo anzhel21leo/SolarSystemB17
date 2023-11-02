@@ -12,6 +12,6 @@ public class main {
         FeatureSun Sun=new FeatureSun();
         Sun.name="panther";
         Sun.color="black";
-        Sun.name="123456";
+        Sun.name="123456kelvin";
     }
 }
